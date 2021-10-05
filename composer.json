@@ -11,6 +11,7 @@
     ],
     "minimum-stability": "stable",
     "require": {
+        "twig/twig": "^3.3",
         "monolog/monolog": "^2.3"
     }
 }
